@@ -34,5 +34,5 @@ A container is what Docker uses to run images.
 1. Creating the container
 <br />Use the command `docker container create -i -t --name <container name> <image name>`.
 2. Starting the container
-<br />Use the command `docker container start --attach -i <container name>.
+<br />Use the command `docker container start --attach -i <container name>.`
 
